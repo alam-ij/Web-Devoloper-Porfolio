@@ -199,6 +199,13 @@ main section {
     
 }
 
+/* Footer Related Styles */
+footer{
+    display:flex;
+    background: #FFF8F3;
+    padding: 130px 200px;
+    margin-top:113px ;
+}
 .paragraph {
     color: #757575;
     font-size: 18px;
