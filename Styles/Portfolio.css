@@ -104,6 +104,9 @@ margin:130px 0px
 .about-info{
     text-align: center;
 }
+#what-i-do-desc{
+    padding: 0px 150px;
+}
 .paragraph{
     color: #757575;
     font-size: 18px;
